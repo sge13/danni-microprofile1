@@ -5,10 +5,20 @@ metadata:
     architecture: x86_64
     authoritative-source-url: registry.access.redhat.com
     build-date: 2019-10-29T16:44:53.794580
+    commit.image.appsody.dev/author: dannil@dk.ibm.com <danniluong@gmail.com>
+    commit.image.appsody.dev/committer: dannil@dk.ibm.com <danniluong@gmail.com>
+    commit.image.appsody.dev/contextDir: C:\danni-microprofile1
+    commit.image.appsody.dev/date: Mon Feb 3 12:36:25 2020 +0100
+    commit.image.appsody.dev/message: "4"
     description: This image contains the Kabanero development stack for the java-microprofile
       collection
     distribution-scope: public
-    image.opencontainers.org/created: "2020-02-03T10:36:41+01:00"
+    image.opencontainers.org/created: "2020-02-03T14:28:42+01:00"
+    image.opencontainers.org/documentation: https://github.com/danniluong/danni-microprofile1
+    image.opencontainers.org/revision: 8d42cd621dee8475dba0bf6a6ec97991727a66b1
+    image.opencontainers.org/source: |
+      https://github.com/danniluong/danni-microprofile1/tree/master
+    image.opencontainers.org/url: https://github.com/danniluong/danni-microprofile1
     k8s.io/description: The Universal Base Image is designed and engineered to be
       the base layer for all of your containerized applications, middleware and utilities.
       This base image is freely redistributable, but Red Hat only supports Red Hat
@@ -44,7 +54,7 @@ metadata:
     stack.appsody.dev/id: java-microprofile
     stack.appsody.dev/version: 0.2.21
   name: danni-microprofile1
-  namespace: danske-bank
+  namespace: default
 spec:
   applicationImage: dev.local/danni-microprofile1
   createKnativeService: false
