@@ -8,16 +8,15 @@ metadata:
     commit.image.appsody.dev/author: dannil@dk.ibm.com <danniluong@gmail.com>
     commit.image.appsody.dev/committer: dannil@dk.ibm.com <danniluong@gmail.com>
     commit.image.appsody.dev/contextDir: C:\danni-microprofile1
-    commit.image.appsody.dev/date: Mon Feb 3 15:05:10 2020 +0100
-    commit.image.appsody.dev/message: "7"
+    commit.image.appsody.dev/date: Mon Feb 3 16:24:39 2020 +0100
+    commit.image.appsody.dev/message: "10"
     description: This image contains the Kabanero development stack for the java-microprofile
       collection
     distribution-scope: public
-    image.opencontainers.org/created: "2020-02-03T15:08:30+01:00"
+    image.opencontainers.org/created: "2020-02-03T22:17:09+01:00"
     image.opencontainers.org/documentation: https://github.com/danniluong/danni-microprofile1
-    image.opencontainers.org/revision: 67764b6b9bd6d701fc91e3ae9ea47541267827a9
-    image.opencontainers.org/source: |
-      https://github.com/danniluong/danni-microprofile1/tree/master
+    image.opencontainers.org/revision: 571616f7ba117aaf624920494b68a786b619efbb
+    image.opencontainers.org/source: https://github.com/danniluong/danni-microprofile1/tree/master
     image.opencontainers.org/url: https://github.com/danniluong/danni-microprofile1
     k8s.io/description: The Universal Base Image is designed and engineered to be
       the base layer for all of your containerized applications, middleware and utilities.
