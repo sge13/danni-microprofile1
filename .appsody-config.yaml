@@ -1,2 +1,2 @@
 project-name: danni-microprofile1
-stack: appsody/java-microprofile:0.2
+stack: kabanero/java-microprofile:0.2
