@@ -8,14 +8,14 @@ metadata:
     commit.image.appsody.dev/author: dannil@dk.ibm.com <danniluong@gmail.com>
     commit.image.appsody.dev/committer: dannil@dk.ibm.com <danniluong@gmail.com>
     commit.image.appsody.dev/contextDir: C:\danni-microprofile1
-    commit.image.appsody.dev/date: Wed Feb 5 18:09:38 2020 +0100
-    commit.image.appsody.dev/message: "15"
+    commit.image.appsody.dev/date: Wed Feb 5 18:32:12 2020 +0100
+    commit.image.appsody.dev/message: "16"
     description: This image contains the Kabanero development stack for the java-microprofile
       collection
     distribution-scope: public
-    image.opencontainers.org/created: "2020-02-05T18:31:37+01:00"
+    image.opencontainers.org/created: "2020-02-05T20:13:16+01:00"
     image.opencontainers.org/documentation: https://github.com/danniluong/danni-microprofile1
-    image.opencontainers.org/revision: f8c25cd564e13320086398cc818f24d5fd3ee001
+    image.opencontainers.org/revision: 67dab281c7443c0da80519c74e5ee8709ff646cd
     image.opencontainers.org/source: |
       https://github.com/danniluong/danni-microprofile1/tree/master
     image.opencontainers.org/url: https://github.com/danniluong/danni-microprofile1
@@ -54,7 +54,6 @@ metadata:
     stack.appsody.dev/id: java-microprofile
     stack.appsody.dev/version: 0.2.21
   name: danni-microprofile1
-  namespace: danske-bank
 spec:
   applicationImage: dev.local/danni-microprofile1
   createKnativeService: false
